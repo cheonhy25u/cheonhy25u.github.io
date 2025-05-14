@@ -7,8 +7,9 @@ order: 4
 <!--
 > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip }
--->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=DAA49A&fontColor=ffffff&text=Hy25u&stroke=DAA49A&animation=twinkling&fontSize=40" width=100% alt="...">
+-->
 <div align="center">
 ✨ reversing <br>
 💬 RISC-V security application implementation
@@ -42,4 +43,5 @@ order: 4
 </div>
 
 <br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=DAA49A&section=footer" width=100% alt="..."/>
+<!--<img src="https://capsule-render.vercel.app/api?type=waving&color=DAA49A&section=footer" width=100% alt="..."/>
+-->
