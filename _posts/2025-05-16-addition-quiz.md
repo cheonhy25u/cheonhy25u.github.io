@@ -17,7 +17,7 @@ tags: [wargame]
 
 ### 주어진 파일 분석
 
-```
+```sh
 $ ./chall
 7067+34=?
 TIME OUT
@@ -29,7 +29,7 @@ chall의 코드를 보면 문제가 50번 반복이 되는 걸 확인할 수 있
 
 ### 익스플로잇 코드 작성
 
-```
+```python
 from pwn import *
 
 p = process('./chall')
