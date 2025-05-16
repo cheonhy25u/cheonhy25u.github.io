@@ -1,6 +1,6 @@
 ---
 title: addition quiz
-date: YYYY-MM-DD HH:MM:SS +/- TTTT
+date: 2025-05-16
 categories: [Dreamhack, misc]
 tags: [wargame]
 ---
