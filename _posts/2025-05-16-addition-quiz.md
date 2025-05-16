@@ -14,3 +14,36 @@ tags: [wargame]
 # Solution
 
 ---
+
+### 주어진 파일 분석
+
+```
+$ ./chall
+7067+34=?
+TIME OUT
+```
+
+주어진 바이너리 실행 시 두 수의 합을 짧은 시간 내에 입력받는다.
+
+chall의 코드를 보면 문제가 50번 반복이 되는 걸 확인할 수 있으니 익스플로잇 코드에서도 참고하여 결과값을 보내야 한다.
+
+### 익스플로잇 코드 작성
+
+```
+from pwn import *
+
+p = process('./chall')
+
+for i in range(50):
+    a = p.recvuntil(b'+')[:-1]
+    b = p.recvuntil(b'=')[:-1]
+
+    sum = int(a)+int(b)
+    p.recvuntil(b'?\n')
+    p.sendline(str(sum).encode())
+
+p.interactive()
+```
+
+- +랑 등호까지 포함해서 받아오기 때문에 숫자만 받기 위해 [:-1]로 잘라 줌
+- pwntools에서 바이트 단위로 받아오기 때문에 b''로 받아 오는 거 볼 수 있고 sum 값도 바이트 값으로 보내 주기 위해서 encode() 사용함
