@@ -2,7 +2,7 @@
 title: addition quiz
 date: 2025-05-16
 categories: [Dreamhack, misc]
-tags: [wargame]
+tags: [wargame] [pwntools]
 ---
 
 # Description
