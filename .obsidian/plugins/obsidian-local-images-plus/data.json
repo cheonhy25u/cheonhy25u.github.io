@@ -17,7 +17,7 @@
   "mediaRootDir": "/assets/images/posts/${notename}",
   "disAddCom": false,
   "useMD5ForNewAtt": true,
-  "removeMediaFolder": true,
+  "removeMediaFolder": false,
   "removeOrphansCompl": false,
   "PngToJpeg": false,
   "PngToJpegLocal": true,

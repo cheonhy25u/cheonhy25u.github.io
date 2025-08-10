@@ -1,15 +1,9 @@
 <% await tp.file.move("/_posts/" + tp.date.now() + "-" + "NewPost") %>
-
 ---
-
 title: bof
-
 date: 2025-05-19
-
 categories: [categories]
-
-tags: [tags]
-
+tags:  [tags]
 ---
 # <% tp.file.title %>
 
