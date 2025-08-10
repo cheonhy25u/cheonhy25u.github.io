@@ -12,11 +12,11 @@
   "enable_system_commands": false,
   "shell_path": "",
   "user_scripts_folder": "",
-  "enable_folder_templates": true,
+  "enable_folder_templates": false,
   "folder_templates": [
     {
       "folder": "",
-      "template": ""
+      "template": "templates/GitBlog.md"
     }
   ],
   "enable_file_templates": false,
@@ -29,12 +29,10 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    "templates/Template.md",
-    ""
+    "templates/GitBlog.md"
   ],
   "startup_templates": [
-    "templates/Template.md",
-    ""
+    "templates/GitBlog.md"
   ],
   "intellisense_render": 1
 }
