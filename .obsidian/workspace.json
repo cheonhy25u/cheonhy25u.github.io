@@ -11,14 +11,12 @@
             "id": "994971ae8173dd52",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "_posts/Portswigger/2025-08-09-Web caches.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/images/posts/2025-08-09-Web-caches/8dcdf5a65495a9cfc8475d22be9b97b8_MD5.jpeg"
               },
-              "icon": "lucide-file",
-              "title": "2025-08-09-Web caches"
+              "icon": "lucide-image",
+              "title": "8dcdf5a65495a9cfc8475d22be9b97b8_MD5"
             }
           }
         ]
@@ -169,10 +167,10 @@
   },
   "active": "994971ae8173dd52",
   "lastOpenFiles": [
-    "assets/images/posts/2025-08-09-Web caches/8dcdf5a65495a9cfc8475d22be9b97b8_MD5.jpeg",
-    "_posts/Portswigger/2025-08-09-Web caches.md",
+    "_posts/Portswigger/2025-08-09-Web-caches.md",
+    "assets/images/posts/2025-08-09-Web-caches/8dcdf5a65495a9cfc8475d22be9b97b8_MD5.jpeg",
     "_posts/dreamhack/2025-05-19-bof.md",
-    "assets/images/posts/2025-08-09-Web caches",
+    "assets/images/posts/2025-08-09-Web-caches",
     "assets/images/posts",
     "assets/images",
     "스크린샷 2025-08-10 오후 5.48.50.png",
