@@ -1,5 +1,5 @@
 ---
-title: bof
+title: Web caches
 date: 2025-05-19
 categories: [Portswigger, Web cache deception]
 tags: [web]
