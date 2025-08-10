@@ -11,12 +11,14 @@
             "id": "994971ae8173dd52",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/images/posts/2025-08-09-Web-caches/8dcdf5a65495a9cfc8475d22be9b97b8_MD5.jpeg"
+                "file": "_posts/Portswigger/2025-08-09-Web-caches.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "8dcdf5a65495a9cfc8475d22be9b97b8_MD5"
+              "icon": "lucide-file",
+              "title": "2025-08-09-Web-caches"
             }
           }
         ]
@@ -167,10 +169,13 @@
   },
   "active": "994971ae8173dd52",
   "lastOpenFiles": [
+    "assets/images/posts/2025-08-09-Web-caches/496a0185e02011d6ca6fbb571496c909_MD5.jpeg",
     "_posts/Portswigger/2025-08-09-Web-caches.md",
+    "README.md",
+    "assets/images/posts/2025-08-09-Web-caches",
+    "스크린샷 2025-08-10 오후 6.20.37.png",
     "assets/images/posts/2025-08-09-Web-caches/8dcdf5a65495a9cfc8475d22be9b97b8_MD5.jpeg",
     "_posts/dreamhack/2025-05-19-bof.md",
-    "assets/images/posts/2025-08-09-Web-caches",
     "assets/images/posts",
     "assets/images",
     "스크린샷 2025-08-10 오후 5.48.50.png",
