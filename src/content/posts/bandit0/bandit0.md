@@ -27,5 +27,5 @@ command line으로는 아래와 같이 입력해 사용할 수 있다.
 ssh -p [포트 번호] [username]@[Destination IP]
 ```
 # Solution
-<img src="/src/content/posts/bandit0/bandit0.png">
+
 문제에서 주어진 포트 번호, username, destination 주소를 이용해 `ssh -p 2220 bandit0@bandit.labs.overthewire.org` 로 로그인이 가능하다. 
