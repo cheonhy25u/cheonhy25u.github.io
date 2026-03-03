@@ -5,7 +5,7 @@ description: "개발자 도구 열기"
 image: "../natas.png"
 tags: ["Web", "Natas", "Writeup"]
 category: Natas
-draft: false
+draft: True
 ---
 # Description
 There is nothing on this page 
